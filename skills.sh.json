@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "craftwave-skill",
+      "name": "邮轮产品查询",
+      "description": "按航线、品牌、日期查询邮轮产品。",
+      "version": "1.0.0",
+      "path": "skills/craftwave-skill/SKILL.md"
+    }
+  ]
+}
