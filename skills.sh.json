@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "cruise-product",
+      "name": "1111",
+      "description": "1111 —— 由 CruiseSkillBridge 一键发布的MCP。",
+      "version": "7.0.0",
+      "path": "skills/cruise-product/SKILL.md"
+    }
+  ]
+}
