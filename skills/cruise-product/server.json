@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/cruise-product",
+  "description": "邮轮计价 —— 由 CruiseSkillBridge 一键发布的MCP。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "http://136.115.176.234:3000/api/gw/mcp/63460e43-c726-44dc-8ae3-28841083d243"
+    }
+  ]
+}
