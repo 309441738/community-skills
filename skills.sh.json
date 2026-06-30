@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "cruise-family-trip",
+      "name": "cruise-family-trip",
+      "description": "适合家庭出游的邮轮产品推荐，满足全家人的旅行需求和乐趣。",
+      "version": "1.0.0",
+      "path": "skills/cruise-family-trip/SKILL.md"
+    }
+  ]
+}
