@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/clawhub",
+  "description": "在 ClawHub 平台上提供邮轮产品信息，用户可以通过此技能获取最新邮轮产品详情。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/be5b4ac9-9b72-42d4-bc78-a2e36ce2a93c"
+    }
+  ]
+}
