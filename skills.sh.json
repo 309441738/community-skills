@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "craftwave-skill-3",
+      "name": "热门邮轮目的地",
+      "description": "列出当前最受欢迎的邮轮目的地，帮助用户了解不同航线的风景与文化，适合想要体验多样旅行的游客。",
+      "version": "1.0.0",
+      "path": "skills/craftwave-skill-3/SKILL.md"
+    }
+  ]
+}
