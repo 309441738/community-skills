@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "cruise-group-tours",
+      "name": "cruise-group-tours",
+      "description": "为团体旅行提供邮轮产品，满足团队的多样化需求。",
+      "version": "1.0.0",
+      "path": "skills/cruise-group-tours/SKILL.md"
+    }
+  ]
+}
