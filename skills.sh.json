@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "cruise-romantic-getaway",
+      "name": "cruise-romantic-getaway",
+      "description": "为情侣提供浪漫邮轮之旅的精选产品，打造难忘的回忆。",
+      "version": "1.0.0",
+      "path": "skills/cruise-romantic-getaway/SKILL.md"
+    }
+  ]
+}
