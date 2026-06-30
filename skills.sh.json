@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "cruise-product-info",
+      "name": "cruise-product-info",
+      "description": "获取特定邮轮产品的详细信息，了解产品的特点和服务，帮助决策。",
+      "version": "1.0.0",
+      "path": "skills/cruise-product-info/SKILL.md"
+    }
+  ]
+}
