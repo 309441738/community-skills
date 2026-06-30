@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "cruise-product-2",
+      "name": "cruise-product",
+      "description": "探索各种邮轮产品，轻松找到适合您的旅行需求。通过多维度过滤，快速筛选出理想的邮轮。",
+      "version": "1.0.0",
+      "path": "skills/cruise-product-2/SKILL.md"
+    }
+  ]
+}
