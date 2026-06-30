@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "craftwave-skill-12",
+      "name": "邮轮搜索工具",
+      "description": "一个强大的邮轮搜索工具，可帮助用户按关键词快速找到所需的邮轮产品。",
+      "version": "1.0.0",
+      "path": "skills/craftwave-skill-12/SKILL.md"
+    }
+  ]
+}
