@@ -42,6 +42,13 @@
       "description": "An intelligent assistant designed to help you plan your cruise vacations seamlessly. Get insights, recommendations, and booking assistance.",
       "version": "1.0.0",
       "path": "skills/ola-agent-cruise-planning/SKILL.md"
+    },
+    {
+      "slug": "ola-cruise-luxury-experiences",
+      "name": "Luxury Cruise Experiences",
+      "description": "Indulge in premium luxury cruise experiences that offer top-notch amenities and exclusive services. Tailored for discerning travelers seeking the finest.",
+      "version": "1.0.0",
+      "path": "skills/ola-cruise-luxury-experiences/SKILL.md"
     }
   ]
 }
