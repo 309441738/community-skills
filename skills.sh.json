@@ -28,6 +28,13 @@
       "description": "verify-hermes.mjs automated closure test",
       "version": "1.0.0",
       "path": "skills/ola-csb-hermes-verify-1782887284312/SKILL.md"
+    },
+    {
+      "slug": "ola-tool-cruise-finder",
+      "name": "Cruise Finder Tool",
+      "description": "A powerful tool that assists users in finding the best cruises based on their preferences and requirements.",
+      "version": "1.0.0",
+      "path": "skills/ola-tool-cruise-finder/SKILL.md"
     }
   ]
 }
