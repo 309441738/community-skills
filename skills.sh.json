@@ -35,6 +35,13 @@
       "description": "A powerful tool that assists users in finding the best cruises based on their preferences and requirements.",
       "version": "1.0.0",
       "path": "skills/ola-tool-cruise-finder/SKILL.md"
+    },
+    {
+      "slug": "ola-agent-cruise-planning",
+      "name": "Cruise Planning Agent",
+      "description": "An intelligent assistant designed to help you plan your cruise vacations seamlessly. Get insights, recommendations, and booking assistance.",
+      "version": "1.0.0",
+      "path": "skills/ola-agent-cruise-planning/SKILL.md"
     }
   ]
 }
