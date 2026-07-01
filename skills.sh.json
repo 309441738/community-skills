@@ -7,6 +7,13 @@
       "description": "Automated Hermes closure test",
       "version": "1.0.0",
       "path": "skills/ola-csb-hermes-e2e-1782884919/SKILL.md"
+    },
+    {
+      "slug": "ola-csb-hermes-verify-1782884940469",
+      "name": "Hermes Verify 1782884940469",
+      "description": "verify-hermes.mjs automated closure test",
+      "version": "1.0.0",
+      "path": "skills/ola-csb-hermes-verify-1782884940469/SKILL.md"
     }
   ]
 }
