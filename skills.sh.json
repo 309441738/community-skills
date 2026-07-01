@@ -49,6 +49,13 @@
       "description": "Indulge in premium luxury cruise experiences that offer top-notch amenities and exclusive services. Tailored for discerning travelers seeking the finest.",
       "version": "1.0.0",
       "path": "skills/ola-cruise-luxury-experiences/SKILL.md"
+    },
+    {
+      "slug": "ola-cruise-multi-destination",
+      "name": "Multi-Destination Cruise Options",
+      "description": "Explore various cruise options that visit multiple exciting destinations. Ideal for travelers looking to maximize their experience with diverse itineraries.",
+      "version": "1.0.0",
+      "path": "skills/ola-cruise-multi-destination/SKILL.md"
     }
   ]
 }
