@@ -56,6 +56,13 @@
       "description": "Explore various cruise options that visit multiple exciting destinations. Ideal for travelers looking to maximize their experience with diverse itineraries.",
       "version": "1.0.0",
       "path": "skills/ola-cruise-multi-destination/SKILL.md"
+    },
+    {
+      "slug": "ola-mcp-related-tours",
+      "name": "Related Tour Packages",
+      "description": "Explore related land tour packages that complement your cruise experience, enriching your travel journey.",
+      "version": "1.0.0",
+      "path": "skills/ola-mcp-related-tours/SKILL.md"
     }
   ]
 }
