@@ -63,6 +63,13 @@
       "description": "Explore related land tour packages that complement your cruise experience, enriching your travel journey.",
       "version": "1.0.0",
       "path": "skills/ola-mcp-related-tours/SKILL.md"
+    },
+    {
+      "slug": "ola-cruise-themed-packages",
+      "name": "Themed Cruise Packages",
+      "description": "Discover themed cruise packages that cater to specific interests such as culinary adventures or wellness retreats. Perfect for niche travelers.",
+      "version": "1.0.0",
+      "path": "skills/ola-cruise-themed-packages/SKILL.md"
     }
   ]
 }
