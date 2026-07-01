@@ -21,6 +21,13 @@
       "description": "Plan Verify Skill —— 由 CruiseSkillBridge 一键发布的Skill。",
       "version": "1.0.0",
       "path": "skills/ola-plan-verify-skill/SKILL.md"
+    },
+    {
+      "slug": "ola-csb-hermes-verify-1782887284312",
+      "name": "Hermes Verify 1782887284312",
+      "description": "verify-hermes.mjs automated closure test",
+      "version": "1.0.0",
+      "path": "skills/ola-csb-hermes-verify-1782887284312/SKILL.md"
     }
   ]
 }
