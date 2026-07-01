@@ -2,12 +2,11 @@
   "version": 1,
   "skills": [
     {
-       csb/craftwave-skill-8-1.0.0
-      "slug": "craftwave-skill-8",
-      "name": "奢华邮轮体验",
-      "description": "适合寻找奢华邮轮之旅的旅客，您可以根据品牌和目的地筛选出最佳选择，享受顶级服务。",
+      "slug": "ola-csb-hermes-e2e-1782884919",
+      "name": "CSB Hermes E2E 1782884919",
+      "description": "Automated Hermes closure test",
       "version": "1.0.0",
-      "path": "skills/craftwave-skill-8/SKILL.md"
+      "path": "skills/ola-csb-hermes-e2e-1782884919/SKILL.md"
     }
   ]
 }
