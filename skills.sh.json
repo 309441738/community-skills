@@ -70,6 +70,13 @@
       "description": "Discover themed cruise packages that cater to specific interests such as culinary adventures or wellness retreats. Perfect for niche travelers.",
       "version": "1.0.0",
       "path": "skills/ola-cruise-themed-packages/SKILL.md"
+    },
+    {
+      "slug": "ola-cruise-beach",
+      "name": "Cruise Products for Beach Vacations",
+      "description": "Explore cruise products specifically tailored for beach vacation enthusiasts. Perfect for sun seekers and relaxation lovers.",
+      "version": "1.0.0",
+      "path": "skills/ola-cruise-beach/SKILL.md"
     }
   ]
 }
