@@ -91,6 +91,13 @@
       "description": "A comprehensive skill pack for cruise enthusiasts, offering tools for searching, filtering, and exploring cruise products.",
       "version": "1.0.0",
       "path": "skills/ola-cruise-skill-pack/SKILL.md"
+    },
+    {
+      "slug": "ola-cruise-excursion",
+      "name": "Cruise Excursion Options",
+      "description": "Explore excursion options available for cruise travelers at various ports, enhancing your travel experience.",
+      "version": "1.0.0",
+      "path": "skills/ola-cruise-excursion/SKILL.md"
     }
   ]
 }
