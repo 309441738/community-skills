@@ -105,6 +105,13 @@
       "description": "在选择邮轮时，您可以比较不同邮轮产品的价格、行程和品牌，以帮助您做出更明智的决策。",
       "version": "1.0.0",
       "path": "skills/ola-cp-comparison/SKILL.md"
+    },
+    {
+      "slug": "ola-cp-recommendations",
+      "name": "Cruise Product Recommendations",
+      "description": "根据用户的偏好和历史选择，为您推荐最适合的邮轮产品，确保您找到理想的航行体验。",
+      "version": "1.0.0",
+      "path": "skills/ola-cp-recommendations/SKILL.md"
     }
   ]
 }
