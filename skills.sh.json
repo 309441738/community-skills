@@ -98,6 +98,13 @@
       "description": "Explore excursion options available for cruise travelers at various ports, enhancing your travel experience.",
       "version": "1.0.0",
       "path": "skills/ola-cruise-excursion/SKILL.md"
+    },
+    {
+      "slug": "ola-cp-comparison",
+      "name": "Cruise Product Comparison",
+      "description": "在选择邮轮时，您可以比较不同邮轮产品的价格、行程和品牌，以帮助您做出更明智的决策。",
+      "version": "1.0.0",
+      "path": "skills/ola-cp-comparison/SKILL.md"
     }
   ]
 }
