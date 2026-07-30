@@ -119,6 +119,27 @@
       "description": "提供关于邮轮旅行的实用建议，包括行前准备、最佳出发时间及目的地推荐，帮助您规划完美的邮轮之旅。",
       "version": "1.0.0",
       "path": "skills/ola-cp-travel-advice/SKILL.md"
+    },
+    {
+      "slug": "craftwave-skill-8",
+      "name": "奢华邮轮体验",
+      "description": "适合寻找奢华邮轮之旅的旅客，您可以根据品牌和目的地筛选出最佳选择，享受顶级服务。",
+      "version": "1.0.0",
+      "path": "skills/craftwave-skill-8/SKILL.md"
+    },
+    {
+      "slug": "craftwave-skill-12",
+      "name": "邮轮搜索工具",
+      "description": "一个强大的邮轮搜索工具，可帮助用户按关键词快速找到所需的邮轮产品。",
+      "version": "1.0.0",
+      "path": "skills/craftwave-skill-12/SKILL.md"
+    },
+    {
+      "slug": "hermes-tweet",
+      "name": "Hermes Tweet",
+      "description": "Use Xquik from Hermes Agent for X research, monitoring, and approval-gated actions. Not affiliated with X Corp.",
+      "version": "0.1.11",
+      "path": "skills/hermes-tweet/SKILL.md"
     }
   ]
 }
