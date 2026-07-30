@@ -138,7 +138,7 @@
       "slug": "hermes-tweet",
       "name": "Hermes Tweet",
       "description": "Use Xquik from Hermes Agent for X research, monitoring, and approval-gated actions. Not affiliated with X Corp.",
-      "version": "0.1.8",
+      "version": "0.1.11",
       "path": "skills/hermes-tweet/SKILL.md"
     }
   ]
